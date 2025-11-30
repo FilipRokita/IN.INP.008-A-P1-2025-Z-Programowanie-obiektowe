@@ -1,0 +1,79 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / IntelliJ
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.nuget.props
+*.nuget.targets
+
+# MSBuild
+*.cache
+*.mdb
+*.pdb
+
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+# Uncomment if using dotnet user-secrets
+# secrets.json
+
+# ASP.NET / IIS
+App_Data/
+_IISExpress/
+iisexpress.log
+*.vspscc
+*.vssscc
+
+# Logs
+*.log
+*.tlog
+
+# User-specific
+*.userprefs
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Azure
+*.PublishSettings
+PublishProfiles/
+
+# Coverage
+coverage/
+coverage*.xml
+*.coverage
+*.coveragexml
+
+# Others
+*.tmp
+*.temp
+~$*
+*.swp
+*.swo
+*.orig
